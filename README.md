@@ -1,2 +1,2 @@
 ﻿# LSTM-stock-price-prediction
-Stock Market Prediction App based on Machine Learning and Sentiment Analysis of Tweets (API keys included in code). The front end of the Web App is based on Flask and Wordpress. The App forecasts stock prices of the next seven days for any given stock under NASDAQ or NSE as input by the user. Predictions are made using  LSTM algorithm. The  App just can give prediction for the next month based on the historical data.
+Stock Market Prediction App based on Machine Learning. The App forecasts stock prices of the next month for any given stock under NASDAQ or NSE as input by the user. Predictions are made using  LSTM algorithm. The  App just can give prediction for the next month based on the historical data.
